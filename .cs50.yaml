@@ -1,1 +1,6 @@
-
+lab50: true
+lab50:
+  files:
+    - foo/bar.c
+    - foo/bar.h
+check50: true
